@@ -1,4 +1,5 @@
 # keylogger
+A fun short project to write a Python script to keep tracking input from the target's keyboard. It's not a nice polishing result, but it works.
 ## How to use it
 You can just run it and it will create a text file called log but if you run the Type2 version it is going to be infolog  
 Note that it has no escape sequence which mean will not close untill you kill it
